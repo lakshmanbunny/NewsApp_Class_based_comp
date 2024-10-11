@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lakshmanbunny/NewsApp_Class_based_comp.git/static/css/main.dc4d6ff2.css",
+    "main.js": "/lakshmanbunny/NewsApp_Class_based_comp.git/static/js/main.703ddffc.js",
+    "static/js/453.b2157c12.chunk.js": "/lakshmanbunny/NewsApp_Class_based_comp.git/static/js/453.b2157c12.chunk.js",
+    "static/media/smspinner.gif": "/lakshmanbunny/NewsApp_Class_based_comp.git/static/media/smspinner.2e7de2e4879d19b3ca91.gif",
+    "index.html": "/lakshmanbunny/NewsApp_Class_based_comp.git/index.html",
+    "main.dc4d6ff2.css.map": "/lakshmanbunny/NewsApp_Class_based_comp.git/static/css/main.dc4d6ff2.css.map",
+    "main.703ddffc.js.map": "/lakshmanbunny/NewsApp_Class_based_comp.git/static/js/main.703ddffc.js.map",
+    "453.b2157c12.chunk.js.map": "/lakshmanbunny/NewsApp_Class_based_comp.git/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.703ddffc.js"
+  ]
+}
